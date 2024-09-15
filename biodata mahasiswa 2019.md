@@ -40,6 +40,4 @@
    TTL    : Tulang Bawang, 27 Oktober 2003<br>
    Alamat : Sleman<br><br>
 
-
-   i like peace
-
+   i like conflict
